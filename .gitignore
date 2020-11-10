@@ -4,8 +4,11 @@
 *.png
 
 # ignore directories
+csv/
 data/
 img/
+models/
+train_log/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
